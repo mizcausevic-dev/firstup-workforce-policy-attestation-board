@@ -1,0 +1,28 @@
+{
+  "name": "FirstUp Workforce Policy Attestation Board",
+  "slug": "firstup-workforce-policy-attestation-board",
+  "platforms": [
+    "FirstUp"
+  ],
+  "topics": [
+    "firstup",
+    "workforce-comms",
+    "policy-attestation",
+    "employee-communications",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}

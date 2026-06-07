@@ -1,0 +1,10 @@
+{
+  "name": "firstup-workforce-policy-attestation-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FirstUp workforce policy attestation board for message reach, acknowledgment proof, and board-ready policy adoption.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
